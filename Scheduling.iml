@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3/src/test/java" />
+          <root url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3/src/example" />
+          <root url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/joda-time-2.3-dist/joda-time-2.3" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/sqlite-jdbc" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/sqlite-jdbc/sqlite-jdbc-3.7.2-javadoc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/sqlite-jdbc" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/sqlite-jdbc" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/sqlite-jdbc" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
